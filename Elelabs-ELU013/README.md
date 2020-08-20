@@ -1,4 +1,4 @@
-### Compatible with Elelabs-ELU013
+### Compatible with Elelabs-ELU013 and ELR023
 
 **Flashing custom firmwares may void your warranty. Use at your own Risk!!!**
 
@@ -10,7 +10,7 @@
 - NCP UART TX --> PA0
 - NCP UART RC <-- PA1
 - Version: 1.10.3
-- no DCDC
+- DCDC bypass
 
 
 #### efr32mg13p-v8-676-sw-115200
@@ -21,7 +21,7 @@
 - NCP UART RC <-- PA1
 - EZSP Version 8
 - EmberZNet 6.7.6
-- no DCDC
+- DCDC bypass
 
 Configuration Parameter | Value
 ----------------------- | ------
@@ -37,7 +37,7 @@ Source Routes | 200
 - NCP UART RC <-- PA1
 - EZSP Version 8
 - EmberZNet 6.7.6
-- no DCDC
+- DCDC bypass
 
 Configuration Parameter | Value
 ----------------------- | ------
