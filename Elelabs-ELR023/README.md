@@ -1,4 +1,4 @@
-### Compatible with Elelabs-ELR023 and Elelabs-ELU013
+### Compatible with Elelabs-ELU013
 
 **Flashing custom firmwares may void your warranty. Use at your own Risk!!!**
 
