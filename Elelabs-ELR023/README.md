@@ -23,6 +23,12 @@
 - EmberZNet 6.7.6
 - no DCDC
 
+Configuration Parameter | Value
+----------------------- | ------
+Address Table Size | 16
+Child Table Size | 32
+Source Routes | 200
+
 
 #### efr32mg13p-v8-676-sw-57600
 - EFR32MG13P target
@@ -32,3 +38,9 @@
 - EZSP Version 8
 - EmberZNet 6.7.6
 - no DCDC
+
+Configuration Parameter | Value
+----------------------- | ------
+Address Table Size | 16
+Child Table Size | 32
+Source Routes | 200
