@@ -1,4 +1,7 @@
-### Elelabs-ELR023
+### Compatible with Elelabs-ELR023
+
+** Flashing custom firmwares may void your warranty. Use at your own Risk!!! **
+
 #### efr32mg1b-bootloader
 
 - EFR32MG13P target
