@@ -1,34 +1,21 @@
-### Compatible with Elelabs-ELR023
+# EByte-E180-Z120B
 
-**Flashing custom firmwares may void your warranty. Use at your own Risk!!!**
+**EByte-E180-Z120B** comes with a proprietary firmware. To update it with an EZSP based firmware you have to use a SWD Flasher at least once to upload the bootloader.
+When uploading the bootloader for the very 1st time, use the _combined.s37_ image.
+How to program the bootloader is out of the scope, however how-to updates are welcome. See https://github.com/myelin/arduino-cmsis-dap and [Open On-Chip Debugger](http://openocd.org/)
 
 
-#### efr32mg1b-bootloader
-
-- EFR32MG13P target
-- Standalone Bootloader
+## efr32mg1b-bootloader
+- EFR32MG1B target
 - NCP UART TX --> PA0
 - NCP UART RC <-- PA1
-- Version: 1.10.3
-- no DCDC
+- Version 1.10.3
+- DCDC
 
-
-#### efr32mg13p-v8-676-sw-115200
-
-- EFR32MG13P target
-- NCP Software flow control, 115200 baudrate
+## efr32mg1b-v8-676-57600
+- EFR32MG1B target
 - NCP UART TX --> PA0
 - NCP UART RC <-- PA1
 - EZSP Version 8
 - EmberZNet 6.7.6
-- no DCDC
-
-
-#### efr32mg13p-v8-676-sw-57600
-- EFR32MG13P target
-- NCP Software flow control, 57600 baudrate
-- NCP UART TX --> PA0
-- NCP UART RC <-- PA1
-- EZSP Version 8
-- EmberZNet 6.7.6
-- no DCDC
+- DCDC
