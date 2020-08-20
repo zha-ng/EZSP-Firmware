@@ -2,7 +2,7 @@
 
 ## Boards
 
-### Elelabs-ELR023
+### Elelabs-ELR023 and Elelabs-ELU013
 #### efr32mg1b-bootloader
 
 - EFR32MG13P target
