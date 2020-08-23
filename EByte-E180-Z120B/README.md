@@ -19,3 +19,17 @@ How to program the bootloader is out of the scope, however how-to updates are we
 - EZSP Version 8
 - EmberZNet 6.7.6
 - DCDC
+
+## efr32mg1b-v8-6801-57600
+- EmberZNet 6.8.0.1
+- Everything else is same as above
+
+
+Configuration Parameter | Value
+----------------------- | ------
+Address Table Size | 16
+Child Table Size | 32
+Source Routes | 200
+
+The remaining parameters are at the default values.
+

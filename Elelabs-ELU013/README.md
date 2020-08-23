@@ -44,3 +44,13 @@ Configuration Parameter | Value
 Address Table Size | 16
 Child Table Size | 32
 Source Routes | 200
+
+
+#### efr32mg13p-v8-6801-sw-115200
+- EmberZNet 6.8.0.1
+- same as above
+
+
+#### efr32mg13p-v8-6801-sw-57600
+- EmberZNet 6.8.0.1
+- same as above
