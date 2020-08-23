@@ -9,6 +9,7 @@ How to program the bootloader is out of the scope, however how-to updates are we
 - EFR32MG1B target
 - NCP UART TX --> PA0
 - NCP UART RC <-- PA1
+- PB12/UART_BUTTON_RESET is bootloader activiation pin/button
 - Version 1.10.3
 - DCDC
 
