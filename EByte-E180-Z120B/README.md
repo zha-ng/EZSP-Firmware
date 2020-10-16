@@ -21,8 +21,8 @@ How to program the bootloader is out of the scope, however how-to updates are we
 - EmberZNet 6.7.6
 - DCDC
 
-## efr32mg1b-v8-6801-57600
-- EmberZNet 6.8.0.1
+## efr32mg1b-latest-57600
+- EmberZNet 6.8.2.0
 - Everything else is same as above
 
 
