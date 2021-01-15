@@ -21,6 +21,14 @@ How to program the bootloader is out of the scope, however how-to updates are we
 - EmberZNet 6.7.6
 - DCDC
 
+## efr32mg1b-v8-678-57600
+- EFR32MG1B target
+- NCP UART TX --> PA0
+- NCP UART RC <-- PA1
+- EZSP Version 8
+- EmberZNet 6.7.8
+- DCDC
+
 ## efr32mg1b-latest-57600
 - EmberZNet 6.8.2.0
 - Everything else is same as above
