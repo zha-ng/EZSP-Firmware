@@ -64,10 +64,10 @@ Source Routes | 200
 
 
 #### efr32mg13p-latest-sw-115200
-- EmberZNet 6.8.2.0
+- EmberZNet 6.9.1.0
 - same as above
 
 
 #### efr32mg13p-latest-sw-57600
-- EmberZNet 6.8.2.0
+- EmberZNet 6.9.1.0
 - same as above
