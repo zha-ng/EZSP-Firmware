@@ -1,8 +1,10 @@
-# EByte-E180-Z120B
+# EByte E180-Z120B and E180-ZG120B-TB
 
-**EByte-E180-Z120B** comes with a proprietary firmware. To update it with an EZSP based firmware you have to use a SWD Flasher at least once to upload the bootloader.
-When uploading the bootloader for the very 1st time, use the _combined.s37_ image.
-How to program the bootloader is out of the scope, however how-to updates are welcome. See https://github.com/myelin/arduino-cmsis-dap and [Open On-Chip Debugger](http://openocd.org/)
+**[E180-ZG120B](http://www.ebyte.com/en/product-view-news.aspx?id=842)** SMD module and **[E180-ZG120B-TB](http://www.ebyte.com/en/product-view-news.aspx?id=896)** evaluation board from **EByte** are both shipped with a proprietary firmware. 
+
+To update them with an standard EZSP NCP application based firmware you have to first use a JTAG/SWD debug probe adapter and SWD flasher software at least once to upload a new standard bootloader. When uploading the bootloader for the very first time, recommend use the _combined.s37_ image from this project.
+
+How-to program the bootloader is out-of-scope for this readme file, however seperate how-to guides are welcome. As an example, you could use https://github.com/myelin/arduino-cmsis-dap and [Open On-Chip Debugger](http://openocd.org/) to SWD flash.
 
 
 ## efr32mg1b-bootloader
