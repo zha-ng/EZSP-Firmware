@@ -1,5 +1,11 @@
 # EZSP Development Firmwares
 
+## Usage
+
+ * Install [elelabs-zigbee-ezsp-utility](https://github.com/Elelabs/elelabs-zigbee-ezsp-utility)
+ * Download firmware
+ * `python Elelabs_EzspFwUtility.py flash -p /dev/select/correct/tty-device -f 'path/to/firmware.gbl'`
+
 ## Boards
 
 ### Elelabs-ELU013 and ELR023
